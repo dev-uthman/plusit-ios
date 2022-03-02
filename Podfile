@@ -7,7 +7,6 @@ target 'PlusIT' do
 
   # Pods for PlusIT
     pod 'RxSwift'
-    pod 'SwiftyJSON', '5.0.0'
     pod 'RxCocoa'
 
 end
